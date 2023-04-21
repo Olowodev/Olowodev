@@ -3,7 +3,7 @@
 👋Hello, i'm Adebayo Olowofoyeku. I'm a Full-Stack Software Engineer specialized in web development.
 I develop websites using the ReactJs framework and NodeJs, basically I am a MERN stack developer.
 I have worked on many different projects and websites for personal use and for other businesses.  
-Starting my GitHub journey in the month of May and the year 2022. Let's see how far I go🚀🚀.   
+<!-- Starting my GitHub journey in the month of May and the year 2022. Let's see how far I go🚀🚀.    -->
 
 **If you have any gig or project for me contact me on any of the socials below👇👇**
 _______
