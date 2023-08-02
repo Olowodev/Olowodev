@@ -29,7 +29,7 @@ _______
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub]("onerror="alert('XSS'))
+![GitHub](onerror="alert('XSS'))
 
 <!---
 Olowodev/Olowodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
