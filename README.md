@@ -1,14 +1,15 @@
-<h1 align="center">A FULL-STACK WEB DEVELOPER AND MORE</h1>
+<h1 align="center">A FULL-STACK MOBILE AND WEB DEVELOPER</h1>
 
-👋Hello, i'm Adebayo Olowofoyeku. I'm a Full-Stack Software Engineer specialized in web development.
+👋Hello, i'm Adebayo Olowofoyeku. I'm a Full-Stack Software Engineer specialized in mobile applicationa and web development.
 I develop websites using the ReactJs framework and NodeJs, basically I am a MERN stack developer.
-I have worked on many different projects and websites for personal use and for other businesses.  
+I also develop mobile applications using React Native.
+I have worked on many different projects, apps and websites for businesses and as personal projects.  
 <!-- Starting my GitHub journey in the month of May and the year 2022. Let's see how far I go🚀🚀.    -->
 
 **If you have any gig or project for me contact me on any of the socials below👇👇**
 _______
 ### SOCIALS
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348083656185?text=I%20have%20a%20gig%20or%20project%20I%20would%20like%20you%20to%20work%20on)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+447305144380?text=I%20have%20a%20gig%20or%20project%20I%20would%20like%20you%20to%20work%20on)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/s.m.a.r.t.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adebayoolowofoyeku@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adebayo-olowofoyeku-0930a3230/)
@@ -23,7 +24,9 @@ _______
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
